@@ -10,4 +10,4 @@
 ![01](./doc/image/sequence-01.png)
     
 ### 踩过的坑 支付成功同步、异步回调通知验签失败
-![01](./doc/image/hit-pit-01.jpg)
+![02](./doc/image/hit-pit-01.jpg)
